@@ -150,3 +150,19 @@ Hello everyone, I'm GiraldoAnalytics 👋
     <a href="mailto:diego.54.461@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF" /></a>
     <a href="https://github.com/DgiraldoQ" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
 </div>
+
+
+<div align="center">
+YouTube profile 
+</div>
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=3owlO5JAb-E" target="_blank">
+    <img src="https://img.youtube.com/vi/3owlO5JAb-E/0.jpg" alt="K-Means en Machine Learning: Ejemplo sencillo y visual" width="320">
+</a>
+
+
+<a href="https://www.youtube.com/watch?v=12lcSNbllpA" target="_blank">
+    <img src="https://img.youtube.com/vi/12lcSNbllpA/0.jpg" alt="Instalación y prueba funcional de XAMPP" width="320">
+</a>
+</div>
