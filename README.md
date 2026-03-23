@@ -2,16 +2,19 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on YOLO v5
-- 🌱 I’m currently learning custom object detection
-- 👯 I’m looking to collaborate on Computer Vision
-- 🤔 I’m looking for a good project
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
-- 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
+
+### Ingeniero en analitica de datos
+📍 Manizales, Colombia 🇨🇴
+
+<img width="35%" align="right" alt="GitHub Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 Actualmente trabajando en: **Proyectos de Machine Learning y Analítica de Datos**
+- 🌱 Actualmente aprendiendo: **Deep Learning, MLOps y Sistemas Backend Avanzados**
+- 👯 Busco colaborar en: **Soluciones de IA, Ciencia de Datos y Apps de prediccion e optimizacion**
+- 💬 Pregúntame sobre: **Python, SQL, Power BI, Desarrollo Backend y ML**
+- 📫 Contáctame: [diego.54.461@gmail.com](mailto:diego.54.461@gmail.com)
+- 🗣️ Idiomas: **Español (Nativo) | English (Intermediate)**
+- ⚡ Dato curioso: **Apasionado por transformar datos complejos en insights accionables** 📊✨
 
 
 
