@@ -1,48 +1,49 @@
 <div align="center">
-Hello everyone, I'm GiraldoAnalytics 👋
+¡Hola a todos! Soy GiraldoAnalytics 👋
 </div>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=GiraldoAnalytics&style=plastic&color=blueviolet" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=GiraldoAnalytics&style=plastic&color=blueviolet" alt="Visitas al perfil"/>
 </p>
+
 <p align="center">
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Juego de la serpiente"/>
 </p>
 
 <div align="center">
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+![Parte superior de Pokébola](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
-<summary>Open profile</summary>
+<summary><b>📂 Abrir perfil</b></summary>
 
 <div align="center">
-    <img src="https://github.com/DgiraldoQ/DgiraldoQ/blob/main/assets/Logo.png" alt="Avatar photo of GiraldoAnalytics" height="150" style="border-radius: 50%;">
+    <img src="https://github.com/DgiraldoQ/DgiraldoQ/blob/main/assets/Logo.png" alt="Foto de perfil de GiraldoAnalytics" height="150" style="border-radius: 50%;">
 </div>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=600&lines=Hey%2C+I+am+Diego+Giraldo;Welcome+to+My+GitHub+Profile;Data+%26+AI+Engineer;Technologist+in+Architecture+%26+Engineering+Graphics;Machine+Learning+and+Data+Analytics;Backend+Developer;Hackathon+Competitor;Lifelong+Learner" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Diego+Giraldo;Bienvenido+a+mi+perfil+de+GitHub;Ingeniero+de+Datos+%26+IA;Tecnólogo+en+Arquitectura+y+Gráficos+de+Ingeniería;Machine+Learning+y+Analítica+de+Datos;Desarrollador+Backend;Competidor+de+Hackathons;Aprendiz+de+por+vida" alt="Typing SVG" />
     </a>
 </div>
 
 <details>
-<summary>About me</summary>
+<summary><b>👤 Sobre mí</b></summary>
 
 ```js
 /**
  * ╔══════════════════════════════════════════════════════════╗
- * ║  👨‍💻  DEVELOPER PROFILE                                 ║
+ * ║  👨‍💻  PERFIL DE DESARROLLADOR                           ║
  * ╠══════════════════════════════════════════════════════════╣
- *  📍 Location   : Manizales, Colombia 🇨🇴
- *  💼 Role       : Data & AI Engineer
- *  🎓 Tech       : Python, SQL, Java, Power BI, ML
- *  🗣️ Languages  : ES (Native) | EN (Intermediate)
- *  🎮 Hobbies    : Gym, Drawing, Gaming, Hackathons
- *  🚀 Status     : Open to collaborations ⚡
- * ╚══════════════════════════════════════════════════════════╝
+ *  📍 Ubicación  : Manizales, Colombia 🇨🇴
+ *  💼 Rol        : Ingeniero de Datos e IA
+ *  🎓 Tecnologías: Python, SQL, Java, Power BI, ML
+ *  🗣️ Idiomas    : Español (Nativo) | Inglés (Intermedio)
+ *  🎮 Pasatiempos: Gimnasio, Dibujo, Gaming, Hackathons
+ *  🚀 Estado     : Abierto a colaboraciones ⚡
+ * ══════════════════════════════════════════════════════════╝
  * 
- * @throws {BugFix} Automatically handles bugs when found.
+ * @throws {BugFix} Resuelve automáticamente los bugs cuando los encuentra.
  */
 
 </details>
