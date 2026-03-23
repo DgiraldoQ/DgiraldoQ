@@ -1,4 +1,4 @@
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+# **Hola, soy Diego Giraldo** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
@@ -13,13 +13,12 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 - 😄 Pronouns: He
 - ⚡ Fun fact: Big fan of 🌈
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
-## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/maity_sourab)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13909768/sourab-maity)&nbsp;
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/sourabmaity)&nbsp;  
+## Conectemos <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
+
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/diego-g1r4ld0/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://www.youtube.com/@GiraldoAnalytics)&nbsp;
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/DgiraldoQ)&nbsp;  
 
 <img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
  <br/>
@@ -28,16 +27,16 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
+<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/git.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/jupy.png' width='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/node-js.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' width='40'/>&nbsp; <img src = 'https://github.com/klakar/qgis_logo/blob/master/qgis-logo-made-with-color.svg' width='40'/>&nbsp; <img src = 'http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg' width='40'/>&nbsp; <img src = 'https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg' width='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
 
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>c;
+<img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/numpy.png" alt="numpy" width="40" height="40"/>&nbsp; <img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/pandas.jpg' alt="numpy" width="40" height="40"/>&nbsp; <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/scikit.png" alt="opencv" width="40" height="40"/>&nbsp;
 
-![Profile views](https://gpvc.arturio.dev/sourabmaity)
+
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
@@ -46,7 +45,6 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=sourabmaity&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
 
 ## Watch my contribution graph being eaten by a snake🐍
@@ -62,24 +60,25 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 </details>
 
-## My Github Activity ⚡
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/styler/issues/2) in [sourab/styler](https://github.com/r)
 
-<!--END_SECTION:activity-->
+## Repositorios 💻
 
-## My Trending Repos 💻
+<div align="center">
+  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=DgiraldoQ&repo=air-quality-ml-dashboard&bg_color=30,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/DgiraldoQ/air-quality-ml-dashboard)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=DgiraldoQ&repo=Predicting-Road-Accident-Risk&bg_color=30,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/DgiraldoQ/Predicting-Road-Accident-Risk)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/Vegetable-Detection_App)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=DgiraldoQ&repo=wage-prediction-streamlit&bg_color=30,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/DgiraldoQ/wage-prediction-streamlit)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=DgiraldoQ&repo=java-desktop-accounting-app&bg_color=30,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/DgiraldoQ/java-desktop-accounting-app)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=DgiraldoQ&repo=CRM_facturacion-md&bg_color=30,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/DgiraldoQ/CRM_facturacion-md)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=DgiraldoQ&repo=Chatbot_Ingelean_SAS&bg_color=30,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/DgiraldoQ/Chatbot_Ingelean_SAS)
+
+</div>
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
