@@ -31,19 +31,19 @@ Hello everyone, I'm GiraldoAnalytics 👋
 
 ```js
 /**
- * Represents me.
- *
- * @param {string} location - Colombia, Caldas, Manizales.
- * @param {string} languages - English (Intermediate), Español (Native).
- * @param {string} jobTitle - Data & AI Engineer | Technologist in Architecture & Engineering Graphics.
- * @param {string} specialization - Data Analytics, Backend Systems, Machine Learning, Web Development.
- * @param {string} interests - AI, Data Science, Public Transport App Development, Automation.
- * @param {string} hobbies - Reading, gym, drawing, video games, hackathons.
- * @param {string} education - Multiple certifications in Python, MySQL, Java, PHP, Statistics, Power BI, Agile Project Management.
- * @param {string} collaborations - Always open to exciting and challenging projects.
- * @throws {BugFix} When I find any bug in my code.
+ * ╔══════════════════════════════════════════════════════════╗
+ * ║  👨‍💻  DEVELOPER PROFILE                                 ║
+ * ╠══════════════════════════════════════════════════════════╣
+ *  📍 Location   : Manizales, Colombia 🇨🇴
+ *  💼 Role       : Data & AI Engineer
+ *  🎓 Tech       : Python, SQL, Java, Power BI, ML
+ *  🗣️ Languages  : ES (Native) | EN (Intermediate)
+ *  🎮 Hobbies    : Gym, Drawing, Gaming, Hackathons
+ *  🚀 Status     : Open to collaborations ⚡
+ * ╚══════════════════════════════════════════════════════════╝
+ * 
+ * @throws {BugFix} Automatically handles bugs when found.
  */
-```
 
 </details>
 
