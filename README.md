@@ -1,169 +1,85 @@
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+
+I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🔭 I’m currently working on YOLO v5
+- 🌱 I’m currently learning custom object detection
+- 👯 I’m looking to collaborate on Computer Vision
+- 🤔 I’m looking for a good project
+- 💬 Ask me about Computer Vision
+- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
+- 😄 Pronouns: He
+- ⚡ Fun fact: Big fan of 🌈
+
 <div align="center">
-¡Hola a todos! Soy GiraldoAnalytics 👋
-</div>
+<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+
+## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
+
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/maity_sourab)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13909768/sourab-maity)&nbsp;
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/sourabmaity)&nbsp;  
+
+<img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
+ <br/>
+ 
+## 👨‍💻 &nbsp;Talking to Computers Using :
+
+### &nbsp;- Languages
+
+<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
+
+### &nbsp;- Libraries, Frameworks, Tools  
+
+
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+
+![Profile views](https://gpvc.arturio.dev/sourabmaity)
+
+![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
+
+## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
+| ![](https://github-readme-stats.vercel.app/api?username=sourabmaity&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabmaity) |
+| --- | --- |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+
+![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=sourabmaity&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
+
+
+## Watch my contribution graph being eaten by a snake🐍
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=GiraldoAnalytics&style=plastic&color=blueviolet" alt="Visitas al perfil"/>
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<p align="center">
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Juego de la serpiente"/>
+<details>
+<summary></summary>
+
+[![Tap to Reload](https://metrics.lecoq.io/sourabmaity?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/sourabmaity)
+
+</details>
+
+## My Github Activity ⚡
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/styler/issues/2) in [sourab/styler](https://github.com/r)
+
+<!--END_SECTION:activity-->
+
+## My Trending Repos 💻
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/Vegetable-Detection_App)
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
 
-<div align="center">
-
-![Parte superior de Pokébola](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary><b>📂 Abrir perfil</b></summary>
-
-<div align="center">
-    <img src="https://github.com/DgiraldoQ/DgiraldoQ/blob/main/assets/Logo.png" alt="Foto de perfil de GiraldoAnalytics" height="150" style="border-radius: 50%;">
-</div>
-
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Diego+Giraldo;Bienvenido+a+mi+perfil+de+GitHub;Ingeniero+de+Datos+%26+IA;Tecnólogo+en+Arquitectura+y+Gráficos+de+Ingeniería;Machine+Learning+y+Analítica+de+Datos;Desarrollador+Backend;Competidor+de+Hackathons;Aprendiz+de+por+vida" alt="Typing SVG" />
-    </a>
-</div>
-
-<details>
-<summary><b>👤 Sobre mí</b></summary>
-
-```js
-/**
- * ╔══════════════════════════════════════════════════════════╗
- * ║  👨‍💻  PERFIL DE DESARROLLADOR                           ║
- * ╠══════════════════════════════════════════════════════════╣
- *  📍 Ubicación  : Manizales, Colombia 🇨🇴
- *  💼 Rol        : Ingeniero de Datos e IA
- *  🎓 Tecnologías: Python, SQL, Java, Power BI, ML
- *  🗣️ Idiomas    : Español (Nativo) | Inglés (Intermedio)
- *  🎮 Pasatiempos: Gimnasio, Dibujo, Gaming, Hackathons
- *  🚀 Estado     : Abierto a colaboraciones ⚡
- * ══════════════════════════════════════════════════════════╝
- * 
- * @throws {BugFix} Resuelve automáticamente los bugs cuando los encuentra.
- */
-
-</details>
-
-<details>
-<summary>Tools</summary>
-<div align="center">
-
-<table>
-<tr><td align="center"><b>Programming Languages</b></td></tr>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
-</td>
-</tr>
-
-<tr><td align="center"><b>Data Science & AI</b></td></tr>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/> 
-<img src="https://avatars.githubusercontent.com/u/126733545" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NLTK_logo.png/320px-NLTK_logo.png" width="40"/> 
-</td>
-</tr>
-
-<tr><td align="center"><b>Web & Backend</b></td></tr>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> 
-</td>
-</tr>
-
-<tr><td align="center"><b>DevOps & Deployment</b></td></tr>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> 
-<img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="40"/> 
-<img src="https://avatars.githubusercontent.com/u/59545823" width="40"/> 
-</td>
-</tr>
-</table>
-
-</div>
-</details>
-
-<details>
-<summary>Certificates & Badges</summary>
-<div align="center">
-
-<table>
-<tr>
-<td align="center">[![Certificado Tecnólogo](https://img.shields.io/badge/Tecnólogo-blue?style=flat-square)](#)</td>
-<td align="center">[![Python Control Structures](https://img.shields.io/badge/Python_Variables-orange?style=flat-square)](#)</td>
-<td align="center">[![MySQL](https://img.shields.io/badge/MySQL-blueviolet?style=flat-square)](#)</td>
-<td align="center">[![Java OOP](https://img.shields.io/badge/Java_POO-yellow?style=flat-square)](#)</td>
-</tr>
-<tr>
-<td align="center">[![PHP Web Dev](https://img.shields.io/badge/PHP-grey?style=flat-square)](#)</td>
-<td align="center">[![Estadística y Probabilidad](https://img.shields.io/badge/Estadística_UNAM-green?style=flat-square)](#)</td>
-<td align="center">[![IBM Intro](https://img.shields.io/badge/IBM_Software_Eng-blue?style=flat-square)](#)</td>
-<td align="center">[![Excel Analysis](https://img.shields.io/badge/Excel_Analysis-brightgreen?style=flat-square)](#)</td>
-</tr>
-<tr>
-<td align="center">[![Power BI](https://img.shields.io/badge/Power_BI-orange?style=flat-square)](#)</td>
-<td align="center">[![Agile](https://img.shields.io/badge/Gestión_Agil-grey?style=flat-square)](#)</td>
-<td align="center">[![Resilience](https://img.shields.io/badge/Resiliencia-FF6F00?style=flat-square)](#)</td>
-<td align="center">[![Analytical Thinking](https://img.shields.io/badge/Pensamiento_Analítico-purple?style=flat-square)](#)</td>
-</tr>
-</table>
-
-</div>
-</details>
-
-<details>
-<summary>GitHub Stats</summary>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DgiraldoQ&show_icons=true&theme=radical" />
-</p>
-</details>
-
-<details>
-<summary>Quote</summary>
-<blockquote>
-    “Data is the new oil, but it’s worthless if you don’t know how to refine it.”  
-    <strong>- Diego Giraldo</strong>
-</blockquote>
-</details>
-
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
-
-<div align="center">
-    <a href="www.linkedin.com/in/diego-g1r4ld0" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF" /></a>
-    <a href="mailto:diego.54.461@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF" /></a>
-    <a href="https://github.com/DgiraldoQ" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
-</div>
-
-
-<div align="center">
-YouTube profile 
-</div>
-
-<div align="center">
-<a href="https://www.youtube.com/watch?v=3owlO5JAb-E" target="_blank">
-    <img src="https://img.youtube.com/vi/3owlO5JAb-E/0.jpg" alt="K-Means en Machine Learning: Ejemplo sencillo y visual" width="320">
-</a>
-
-
-<a href="https://www.youtube.com/watch?v=12lcSNbllpA" target="_blank">
-    <img src="https://img.youtube.com/vi/12lcSNbllpA/0.jpg" alt="Instalación y prueba funcional de XAMPP" width="320">
-</a>
-</div>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
